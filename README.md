@@ -1,8 +1,9 @@
-# 🕵️ DEEPEYE Log Security Monitor
+# 🕵️ DEEPEYE MONITORING SYSTEM FOR KEYLOGER
+
 
 ## 🚀 Overview
 
-DEEPEYE is a modern, Python-based log monitoring application designed to provide real-time security insights and alerts for server logs.
+DEEPEYE is a modern, Python-based log monitoring application designed to provide real-time security insights and alerts for KEYLOGER logs.
 
 ## ✨ Features
 
