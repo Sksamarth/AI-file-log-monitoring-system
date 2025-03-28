@@ -11,7 +11,6 @@ DEEPEYE is a modern, Python-based log monitoring application designed to provide
 - 🤖 AI-powered security analysis
 - 🚨 Instant alerts and sound notifications
 - 🎨 Modern, user-friendly interface
-- 🔒 Robust error handling and file management
 
 ## 🛠 Technologies Used
 
@@ -66,11 +65,3 @@ python deepeye_log_monitor.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-[Your License Here - e.g., MIT License]
-
-## 🙏 Acknowledgments
-
-- OpenAI for AI capabilities
-- Python Tkinter community
